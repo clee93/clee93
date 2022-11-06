@@ -4,6 +4,7 @@
 
 ## 🚀 Other Contributions
 https://github.com/poe-iit/poe-backend
+https://github.com/poe-iit/Arduino-Code/tree/ethernet
 
 <!--
 **clee93/clee93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
